@@ -2,6 +2,8 @@
 
 # TODO: Add Exception Handling
 
+# OMG NOT DONE?
+
 # Format of .txt file:
 # <subjectcode>;<credit_pt>;<marks>     <-- semicolon cus easier to type
 class Subject:
